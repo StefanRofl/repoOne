@@ -4,6 +4,7 @@
  * and open the template in the editor.
  * meine erste Änderung für Git
  * meine zweite Änderung für Git
+ * und noch eine Änderung :-)
  */
 package gitapp1;
 
